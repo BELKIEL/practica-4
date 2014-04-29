@@ -8,7 +8,7 @@ namespace Practica_4
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("B I E N V E N I D O");
+			Console.WriteLine("***B I E N V E N I D O***");
 			
 			
 			Console.WriteLine("Lista de productos");
