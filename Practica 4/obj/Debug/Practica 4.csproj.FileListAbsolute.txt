@@ -1,0 +1,5 @@
+I:\Programación III\Proyectos\Practica 4\bin\Debug\Practica 4.exe
+I:\Programación III\Proyectos\Practica 4\bin\Debug\Practica 4.pdb
+I:\Programación III\Proyectos\Practica 4\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\Practica 4\obj\Debug\Practica 4.exe
+I:\Programación III\Proyectos\Practica 4\obj\Debug\Practica 4.pdb
